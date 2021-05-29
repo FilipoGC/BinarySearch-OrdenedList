@@ -1,4 +1,4 @@
-# BinarySearch-SortedList
+# BinarySearch-OrdenedList
 
 To run code:
 
